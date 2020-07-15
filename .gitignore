@@ -4,7 +4,20 @@
 /cache/*
 /backup/*
 /tmp/*
+
+# User folder.
 /user/plugins/*
 /user/data/*
 /user/themes/*
 !/user/themes/guldberget_quark/*
+
+# Ignore Grav internal folders that are only changed when Grav is updated.
+/backup/*
+/bin/*
+/cache/*
+/images/*
+/logs/*
+/system/*
+/tmp/*
+/webserver-configs/*
+/vendor/*   
