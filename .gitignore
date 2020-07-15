@@ -4,3 +4,7 @@
 /cache/*
 /backup/*
 /tmp/*
+/user/plugins/*
+/user/data/*
+/user/themes/*
+!/user/themes/guldberget_quark/*
