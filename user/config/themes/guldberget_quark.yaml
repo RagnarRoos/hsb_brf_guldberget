@@ -1,0 +1,30 @@
+enabled: true
+production-mode: true
+grid-size: grid-lg
+header-fixed: true
+header-animated: true
+header-dark: false
+header-transparent: false
+sticky-footer: true
+blog-page: /blog
+spectre:
+  exp: false
+  icons: false
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/guldberget_quark, user/themes/quark]
+custom_logo_mobile:
+  user/themes/guldberget_quark/images/logo/guldberget_logo_vit_text.png:
+    name: guldberget_logo_vit_text.png
+    type: image/png
+    size: 15464
+    path: user/themes/guldberget_quark/images/logo/guldberget_logo_vit_text.png
+custom_logo:
+  user/themes/guldberget_quark/images/logo/guldberget_logo.png:
+    name: guldberget_logo.png
+    type: image/png
+    size: 10756
+    path: user/themes/guldberget_quark/images/logo/guldberget_logo.png

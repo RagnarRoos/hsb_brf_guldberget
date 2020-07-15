@@ -1,0 +1,14 @@
+email: support@guldberget.se
+fullname: Admin
+title: Administrator
+state: enabled
+access:
+  admin:
+    super: 'true'
+    login: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$oJ2s7dYQtZ/Nz2N5OB0FbOFDldXBc1wYzxgpuogmuTrRWqP4uty7.
+language: en
+twofa_enabled: false
+twofa_secret: 3YWJR627YM26PXBYHNNQFXNWUHHQMVKX
