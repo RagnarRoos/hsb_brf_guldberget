@@ -8,8 +8,7 @@
 # User folder.
 /user/plugins/*
 /user/data/*
-/user/themes/*
-!/user/themes/guldberget_quark/*
+/user/themes/quark/*
 
 # Ignore Grav internal folders that are only changed when Grav is updated.
 /backup/*
