@@ -20,7 +20,7 @@ Bokning av tvättstugor görs med passagetagg på informationstavlan i trapphuse
 
 
 ### Soprum
-<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/02.Medlem/02.gemensamma-utrymmen/photo_11.jpg">
+<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/02.medlem/02.gemensamma-utrymmen/photo_11.jpg">
 
 Det gamla pannrummet på Lövskogsgatan 14 är inrett till ett rymligt soprum. Följande fraktioner kan lämnas i soprummet:
 
@@ -40,7 +40,7 @@ Det gamla pannrummet på Lövskogsgatan 14 är inrett till ett rymligt soprum. F
 Grovsopor och miljöfarligt avfall får inte lämnas i soprummet. Dessa tar du till återvinningscentral eller lämnar till (farligt avfallbilen)[https://goteborg.se/wps/portal/start/avfall-och-atervinning/har-lamnar-hushall-avfall/farligtavfallbilen/farligt-avfall-bilen/!ut/p/z1/hY9NC4JAGIR_SwcvHfZ9XcVduimBYfQBBeleQmX9ANeVdUvq12fHoGhuw8wDMyAgBdHn97bObav7vJt9JoKrT2N0E9_dHvZ-hGGyW-8jN6bxJoDLv4KYY_yhECGbefaTP1I4gQAxSnNvS2kfg4RsCQmItlBkKhVBgpwz7gWe5zKGAaP8PTrsC4_XIIyspJGG3Mz8pbF2GFcOOjhNE6m1rjtJSq0c_IY0erSQfjZhUOnzXKkLH8PFCyPda4Q!/dz/d5/L2dBISEvZ0FBIS9nQSEh/#]
 
 ### Hobbyrum
-<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/02.Medlem/02.gemensamma-utrymmen/photo_12.jpg">
+<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/02.medlem/02.gemensamma-utrymmen/photo_12.jpg">
 Ett hobbyrum finns tillgängligt på Lövskogsgatan 18. Detta behöver inte bokas.
 
 ### Extra vindsförråd
