@@ -1,11 +1,11 @@
 ---
-title: Spolning av avloppsstammarna
+title: Inventering av lägenhetsel inför IMD-el
 house_number: common
 next_page: "01"
-image_path: image3.jpg
+image_path: image4.jpg
 ---
-I de hus där underhållspolning har gjorts har det tagit längre tid är planerat på grund av mycket fett i rören. Det har lett till att vi inte hunnits med alla lägenheter.
+### Lövskogsgatan 19
+På fredag den 4 december kommer vi att kontrollera elanslutning och elcentral i lägenheterna på Lövskogsgatan 19.
 
-Underhållsspolning fortsätter enligt plan vilket innebär att spolning kommer att göras på Lövskogsgatan 14 måndag 23/11.
-
-De lägenheter som inte hinns med kommer att spolas vid ett senare tillfälle. Berörda lägenheter kommer meddelas separa
+### Lövskogsgatan 14, 16 och 18
+Arbetet den 4 december berör inte dig som bor på Lövskogsgatan 14, 16 eller 18. Du som bor på dessa adresser behöver inte ge tillträde till lägenheten detta datum.
