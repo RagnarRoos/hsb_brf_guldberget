@@ -1,7 +1,7 @@
 ---
 title: Välkommen till HSB BRF Guldberget
 house_number: common
-previous_page: "02"
+previous_page: ""
 image_path: image1.jpg
 ---
 #### Felanmälan
