@@ -24,7 +24,7 @@ Föreningens gästlägenhet ligger på Lövskogsgatan 14. Den har egen ingång f
 
 Du bokar på [Guldbergets bokningssida](https://bokning.guldberget.se) eller på informationstavlan i trapphuset vid entrén. Avbokning sker via **Mina Bokningar**.
 
-I bokningssystemet kallas en dag **Pass 1**. I bokningssystemet gäller **Pass 1** 14:00-23:59. I praktiken gäller en bokning 14:00 incheckningsdagen till 13:00 utcheckningsdagen. En vanlig bokning är att checka in fredag och checka ut söndag. Detta åstakommer du genom att boka **Pass 1** fredag och lördag.
+I bokningssystemet kallas en dag **Pass 1**. I bokningssystemet gäller **Pass 1** kl. 14:00-23:59. I praktiken gäller en bokning kl. 14:00 incheckningsdagen till kl. 13:00 utcheckningsdagen. En vanlig bokning är att checka in fredag och checka ut söndag. Detta åstakommer du genom att boka **Pass 1** fredag och lördag.
 
 #### Bokningsvillkor
 Du som bokar är ansvarig gentemot föreningen under hyresperioden. Hyran är 350 kr per natt oavsett antalet gäster.
