@@ -2,10 +2,6 @@
 title: Felanmälan
 visible: true
 ---
-
-	
-
-### Felanmälan
 [För att anmäla fel till HSB  via web klicka här.](https://www.hsb.se/goteborg/felanmalan)
 
 Felanmälan per telefon till HSB, tel: 010 - 442 24 24, må kl 8-18, ti-to 8-17, fr 8-15, sommartid 15 maj-31 augusti må-to 8-16, fr 8-15.

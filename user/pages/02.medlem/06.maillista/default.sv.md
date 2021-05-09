@@ -1,8 +1,6 @@
 ---
 title: Maillista
 ---
-
-## Maillista 
 Fyll i dina uppgifter nedan och tryck på **Prenumerera** för att få utskick av information till din e-postlåda.
 
 <form method="POST" action="https://gansub.com/s/USajuEUBRVlcIfz7ICbQ/">

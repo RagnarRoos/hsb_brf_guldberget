@@ -1,9 +1,7 @@
 ---
 title: Gästlägenhet
 ---
-## Gästlägenhet
-
-<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/foton-fran-gaestlaegenheten/gastlagenhet1.jpg">
+<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/images/gastlagenhet/gastlagenhet1.jpg">
 Föreningens gästlägenhet ligger på Lövskogsgatan 14. Den har egen ingång från markplanet runt hörnet till vänster om huvudentrén.
 
 #### Utrustning
@@ -20,7 +18,7 @@ Föreningens gästlägenhet ligger på Lövskogsgatan 14. Den har egen ingång f
 * Du städar lägenheten själv innan du checkar ut. Instruktion för städningen finns anslagen i lägenheten.
 
 ### Bokning och avbokning
-<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/foton-fran-gaestlaegenheten/gastlagenhet4.jpg">
+<img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/images/gastlagenhet/gastlagenhet4.jpg">
 
 Du bokar på [Guldbergets bokningssida](https://bokning.guldberget.se) eller på informationstavlan i trapphuset vid entrén. Avbokning sker via **Mina Bokningar**.
 

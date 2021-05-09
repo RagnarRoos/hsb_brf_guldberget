@@ -1,8 +1,6 @@
 ---
 title: 'Gemensamma utrymmen'
 ---
-## Gemensamma utrymmen
-
 ### Tvättstugor
 Föreningen har tre moderna välutrustade tvättstugor, en på Lövskogsgatan 14 och två på Lövskogsgatan 18. Det är tillåtet att tvätta alla dagar i veckan. En stenmangel och elektrisk kallmangel finns i hus 18 och en varmmangel i hus 14.
 

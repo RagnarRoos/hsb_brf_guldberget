@@ -1,9 +1,6 @@
 ---
 title: Styrelsen
 ---
-
-#### Styrelsen
-
 <img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/05.kontakt/01.styrelsen/photo_09.jpg">
 
 Observera att felanmälan görs direkt tilll HSB, se [Felanmälan](/medlem/felanmaelan).
@@ -27,4 +24,4 @@ Observera att felanmälan görs direkt tilll HSB, se [Felanmälan](/medlem/felan
 Du kan alltid nå styrelsen genom att maila
 [styrelsen@guldberget.se ](mailto:styrelsen@guldberget.se) eller lämna ett meddelande i brevlådan utanför expeditionen i hus 19 för icke brådskande ärenden. 
 
-Om du är intresserad av styrelsearbete, kontakta valberedningen.
+Om du är intresserad av styrelsearbete, kontakta [valberedningen@guldberget.se](mailto:valberedningen@guldberget.se).

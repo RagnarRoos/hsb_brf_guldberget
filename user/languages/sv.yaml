@@ -1,0 +1,5 @@
+THEME_QUARK:
+  BLOG:
+    ITEM:
+      PREV_POST: Föregående artikel
+      NEXT_POST: Nästa artikel

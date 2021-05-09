@@ -1,11 +1,11 @@
 ---
 title: Parkering
 ---
-
-## Parkering
 <img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/02.medlem/05.parkering/photo_01.jpg">
 
-Föreningen hyr ut 58 st parkeringsplatser varav 21 med uttag för motorvärmare. Avgiften är för nävarande 400 kr/månad. Utmed Lövskogsgatan finns möjligheter till boendeparkering. Ansökan om boendeparkering görs hos [Trafikkontoret i Göteborg](http://goteborg.se/wps/portal?uri=gbglnk:gbg.page.3fe033bb-e81a-4e98-8e41-481b11839b42).
+Föreningen hyr ut 58 st parkeringsplatser varav 4 har laddmöjlighet och 17 har uttag för motorvärmare. Avgiften är 550 kr/månad för platser med laddmöjlighet och 400 kr/månad för övriga. 
+
+Utmed Lövskogsgatan finns möjligheter till boendeparkering. Ansökan om boendeparkering görs hos [Trafikkontoret i Göteborg](http://goteborg.se/wps/portal?uri=gbglnk:gbg.page.3fe033bb-e81a-4e98-8e41-481b11839b42).
 
 I återvinningsrummet i hus 14 finns en gästparkeringslista där medlemmar tillfälligt kan låna ut sina parkeringsplatser. Längsta sammanhängande tid en medlem får låna en annan medlems plats är sju dagar. Observera att lånetiden om inget annat anges av utlånaren gäller kl 00-24, dvs parkeringsplatsen får ej lånas dygnet efter sista bokade dygn.
 

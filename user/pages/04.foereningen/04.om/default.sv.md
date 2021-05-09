@@ -1,11 +1,7 @@
 ---
-title: Hem
+title: Om Guldberget
 body_classes: 'title-center title-h1h2'
 ---
---------------------------
-
-### Välkommen till HSB Brf Guldberget
-
 <img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/01.home/Home_03.jpg">
 HSB Brf Guldberget ligger längst ut på berget på Norra Guldheden i slutet av Lövskogsgatan. Detta fina läge ger lugna, lummiga omgivningar, frisk luft och en strålande utsikt över Linnéstaden. Det är promenadavstånd till Linnégatan (5 min.), Kungsportavenyn (15 min.), Chalmers (10 min.) och Sahlgrenska (10 min). Föreningen äger och förvaltar fyra sexvåningshus byggda 1947. Husen rymmer 96 lägenheter fördelat jämnt på två- och trerumslägenheter. Det finns hiss i husen. Uppvärmningen av husen görs med fjärrvärme. Kommunikationerna till och från Norra Guldheden är mycket goda med flertalet spårvagns- och busslinjer från Wavrinskys plats.
 

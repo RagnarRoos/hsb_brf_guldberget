@@ -1,8 +1,6 @@
 ---
-title: 'Övrig medlemsinformation'
+title: 'Övrig information'
 ---
-#### Övrig information
-
 <img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/04.foereningen/03.oevrig-information/photo_08.jpg">
 
 [Föreningens stadgar](stadgar_20170920.pdf)

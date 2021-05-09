@@ -1,8 +1,6 @@
 ---
 title: Ekonomi
 ---
-
-#### Föreningens ekonomi
 <img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/04.foereningen/01.ekonomi/ekonomi_01.jpg">
 Styrelsen arbetar med en långsiktig (30-årig) underhållsplan. Avsikten med planen är att föreningen genom årliga fondavsättningar skall kunna finansiera det framtida underhållet med huvudsakligen egna medel. På detta sätt avser föreningen att undvika  risken för stora avgiftshöjningar i framtiden.
 
@@ -16,7 +14,7 @@ Styrelsen arbetar med en långsiktig (30-årig) underhållsplan. Avsikten med pl
 * [Årsredovisning 2014](Arsredovisning_2014.pdf)
 * [Årsredovisning 2013](Arsredovisning_2013.pdf)
 * [Årsredovisning 2012](Arsredovisning_2012.pdf)
-* [Årsredovisning 2011](redovisning_2011.pdf)
-* [Årsredovisning 2010](redovisning2010.pdf)
-* [Årsredovisning 2009](redovisning2009.pdf)
-* [Årsredovisning 2008](redovisning2008.pdf)
+* [Årsredovisning 2011](Arsredovisning_2011.pdf)
+* [Årsredovisning 2010](Arsredovisning2010.pdf)
+* [Årsredovisning 2009](Arsredovisning2009.pdf)
+* [Årsredovisning 2008](Arsredovisning2008.pdf)

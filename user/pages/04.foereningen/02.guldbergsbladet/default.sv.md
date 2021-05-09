@@ -2,8 +2,6 @@
 title: Guldbergsbladet
 media_order: 'Guldbergsbladet_201602.pdf,Guldbergsbladet_201604.pdf,Guldbergsbladet_201606.pdf,Guldbergsbladet_201609.pdf,Guldbergsbladet_201612.pdf,Guldbergsbladet_201702.pdf,Guldbergsbladet_201704.pdf,Guldbergsbladet_201706.pdf,Guldbergsbladet_201709.pdf,Guldbergsbladet_201712.pdf,Guldbergsbladet_201802.pdf,Guldbergsbladet_201806.pdf,Guldbergsbladet_201809.pdf,Guldbergsbladet_201812.pdf,Guldbergsbladet_201903.pdf'
 ---
-
-
 <img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/04.foereningen/02.guldbergsbladet/photo_02.jpg">
 
 Guldbergsbladet är HSB Brf Guldbergets informationsblad.

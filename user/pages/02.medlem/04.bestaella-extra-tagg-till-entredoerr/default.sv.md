@@ -1,8 +1,7 @@
 ---
-title: 'Beställa extra tagg till entrédörr'
+title: Extrataggar
 ---
-## Beställa extra tag
-Om du vill beställa extra tag till entré och bokning av t.ex. tvättstuga skickar du ett mail till [info@locksafe.se](mailto:info@locksafe.se).
+Om du vill beställa extra passagebricka (tagg) till entré och bokning av t.ex. tvättstuga skickar du ett mail till [info@locksafe.se](mailto:info@locksafe.se).
 
 Ange **BRF Guldberget** i ämnesraden.
 
