@@ -11,14 +11,9 @@
     </div>
 {% endif %}
 {% set image = page.media.images|first %}
-    {% if image %}
-    <div class="columns">
-        <div class="column col-1"></div>
-        <div class="column col-10">
-            {{ image.cropResize(800,400).html|raw }}
-        </div>
-
-        <div class="column col-1"></div>
+{% if image %}
+    <div style="display: flex; justify-content: center;">
+        {{ image.cropResize(800,400).html|raw }}
     </div>
 {% endif %}
     <div class="e-content">
