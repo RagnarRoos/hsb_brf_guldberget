@@ -4,7 +4,7 @@ title: 'Gemensamma utrymmen'
 ### Tvättstugor
 Föreningen har tre moderna välutrustade tvättstugor, en på Lövskogsgatan 14 och två på Lövskogsgatan 18. Det är tillåtet att tvätta alla dagar i veckan. En stenmangel och elektrisk kallmangel finns i hus 18 och en varmmangel i hus 14.
 
-Bokning av tvättstugor görs med passagetagg på informationstavlan i trapphuset eller på [bokning.guldberget.se](https://bokning.guldberget.se/ "Bokningssida tvättstugor")
+Bokning av tvättstugor görs med passagetagg på informationstavlan i trapphuset eller på [bokning.guldberget.se](https://bokning.guldberget.se/ "Bokningssida tvättstugor"). Ditt användarnamn är numret längst ned på din tagg. Tag bort prefix **MFV0000000**. Lösenordet är den PIN-kod du valde när du aktiverade din tagg vid entrén. Exempel: På din tagg står MFV00000003812345678 och din PIN-kod är 1234, på inloggningssidan anger du **Användare** 3812345678 och **Lösen** 1234.
 
 #### Bokningsregler tvättstugor.
 * Du måste aktivera bokning inom 60 minuter. Du aktiverar genom att hålla din tagg mot läsaren vid dörren till tvättstugan. Om bokningen inte aktiveras inom 60 minuter släpps passet och blir åter bokningsbart av andra.
