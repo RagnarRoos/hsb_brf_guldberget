@@ -3,7 +3,7 @@ title: Parkering
 ---
 <img style="float:right; margin:5px 0 5px 15px; max-width: 45%;" src="../user/pages/02.medlem/05.parkering/photo_01.jpg">
 
-Föreningen hyr ut 58 st parkeringsplatser varav 4 har laddmöjlighet och 17 har uttag för motorvärmare. Avgiften är 550 kr/månad för platser med laddmöjlighet och 400 kr/månad för övriga. 
+Föreningen hyr ut 58 st parkeringsplatser varav 8 har laddmöjlighet och 13 har uttag för motorvärmare. Avgiften är 550 kr/månad för platser med laddmöjlighet och 400 kr/månad för övriga. 
 
 Utmed Lövskogsgatan finns möjligheter till boendeparkering. Ansökan om boendeparkering görs hos [Trafikkontoret i Göteborg](http://goteborg.se/wps/portal?uri=gbglnk:gbg.page.3fe033bb-e81a-4e98-8e41-481b11839b42).
 
