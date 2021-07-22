@@ -18,10 +18,9 @@ Exempel på akuta fel är vattenläcka och strömavbrott.
 #### Styrelsen
 - Ragnar Roos: Ordförande
 - Helen Svenstam: Sekreterare
-- Erik Andersson: Ledamot
+- Erik Karlsson: Ledamot
+- Petter Mostad: Ledamot
 - Martin Olsson: Ledamot
-- Carl Uppman: Ledamot
-- Karin Herder: Suppleant
 - Fredrik Johansson: HSB-ledamot
 
 Du når styrelsen genom att skicka e-post till styrelsen@guldberget.se.
