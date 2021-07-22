@@ -6,6 +6,7 @@ Styrelsen arbetar med en långsiktig (30-årig) underhållsplan. Avsikten med pl
 
 #### Årsredovisningar
 
+* [Årsredovisning 2020](Arsredovisning_2020.pdf)
 * [Årsredovisning 2019](Arsredovisning_2019.pdf)
 * [Årsredovisning 2018](Arsredovisning_2018.pdf)
 * [Årsredovisning 2017](Arsredovisning_2017.pdf)
