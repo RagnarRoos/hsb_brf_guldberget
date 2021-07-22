@@ -8,12 +8,16 @@ Lövskogsgatan 19<br/>
 413 20 GÖTEBORG
 
 #### Fakturor via epost ställs till
+
 <a href="mailto:fakturor.gbg@hsb.se" target="blank">fakturor.gbg@hsb.se</a>
+
 #### Fakturor via post  ställs till
+
 HSB BRF Guldberget i Gbg <br/>
 22-2031-000<br/>
 FE 397<br/>
 838 73 FRÖSÖN<br/>
 
 #### Organisationsnummer
+
 Föreningens organisationsnummer är 757200-7925.

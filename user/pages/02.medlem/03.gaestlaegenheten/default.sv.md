@@ -31,7 +31,7 @@ I bokningssystemet kallas en dag **Pass 1**. I bokningssystemet gäller **Pass 1
 
 Du som bokar är ansvarig gentemot föreningen under hyresperioden. Hyran är 350 kr per natt oavsett antalet gäster.
 
-Du kan boka tidigast åtta månader i förväg. Du kan boka högst sju nätter i rad och högst sju nätter per månad. 
+Du kan boka tidigast åtta månader i förväg. Du kan boka högst sju nätter i rad och högst sju nätter per månad.
 
 Om du behöver avboka måste du göra det senast sju dagar innan bokad ankomstdag. Avgift för avbokning är 50 kr per avbokad natt. Om du gör en senare avbokning är avgiften 350 kr om du bokat en dag och 700 kr om du bokat längre.
 

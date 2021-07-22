@@ -6,6 +6,7 @@ Om du vill beställa extra passagebricka (tagg) till entré och bokning av t.ex.
 Ange **BRF Guldberget** i ämnesraden.
 
 I meddelandet anger du:
+
 * Ditt namn
 * Ditt lägenhetsnummer
 * Hur många taggar du vill beställa
