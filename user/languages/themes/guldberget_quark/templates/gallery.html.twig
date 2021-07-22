@@ -1,0 +1,16 @@
+{% extends 'partials/base.html.twig' %}
+
+{% block content %}
+    {{ page.content }}
+
+      {% for image in page.media.images %}
+
+      <figure>
+	{{ image.cropResize(600,600) }}
+	<figcaption>{{ image.meta.description }}</figcaption>
+      </figure> 
+
+    {% endfor %}
+
+    {% endblock %}
+    

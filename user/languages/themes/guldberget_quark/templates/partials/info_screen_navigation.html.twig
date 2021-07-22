@@ -1,0 +1,20 @@
+<section id="navigation" class="section bg-gray">
+  	<section class="container {{ grid_size }}">
+        <div id="fb-root"></div>
+        <div id="fb-root"></div>
+        <div class="container">
+            <div class="columns">
+                <div class="column col-3"></div>
+
+                <div class="column col-3">
+					<a href="/medlem/info_screen/info_screen_{{ page.header.house_number }}/info_screen_{{ page.header.house_number }}_{{ page.header.previous_page }}" class="button big btn-block{% if page.header.previous_page is empty %}{{' disabled'}}{% endif %}">Föregående</a>
+                </div>
+
+                <div class="column col-3">
+					<a href="/medlem/info_screen/info_screen_{{ page.header.house_number }}/info_screen_{{ page.header.house_number }}_{{ page.header.next_page }}" class="button big btn-block{% if page.header.next_page is empty %}{{' disabled'}}{% endif %}">Nästa</a>
+                </div>
+               <div class="column col-3"></div>
+            </div>
+        </div>
+	</section>
+</section>

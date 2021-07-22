@@ -1,0 +1,14 @@
+sv:
+  PLUGIN_MAINTENANCE:
+    OFFLINE_MARKDOWN: "# Hemsidan nere för underhåll\n## Snart tillbaka ..."
+    AUTHORIZED_ACCESS: "**Lösenord krävs**"
+    BLUEPRINTS:
+      STATUS: Pluginstatus
+      MODE: Underhållsmod
+      MODE_HELP: Slå av och på underhållsmod, gäller hela siten
+      ALLOW_LOGIN: Tillåt login
+      ALLOW_LOGIN_HELP: Om du vill visa ett loginformulär för användare med lösenord
+      ACCESS: Logintillstånd
+      ACCESS_HELP: ACL-strängen som måste vara sann för att en användare ska få komma in på siten
+      PAGE_ROUTE: Underhållsideadress
+      PAGE_ROUTE_HELP: Adress till en Grav-sida som visas för underhållsmoden

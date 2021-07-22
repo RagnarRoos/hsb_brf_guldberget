@@ -1,0 +1,17 @@
+<section id="{{ id }}" class="section modular-hero hero {{ page.header.hero_classes }} {{ page.header.background.parallax ? 'parallax' : '' }}" {% if hero_image %}style="background-image: url('{{ hero_image.url }}');"{% endif %}>
+    <div class="image-overlay"></div>
+        <div class="container">
+            <div class="columns">
+                <div class="column col-3"></div>
+
+                <div class="column col-6">
+                    <section class="container {{ grid_size }}" style="text-align: {{ page.header.hero_align|default('center') }}">
+                        <h2 class="text-light">{{ content|raw }}</h2>
+                        <i id="to-start" class="pulse fa fa-angle-down" style="color: #ffffff"></i>
+                    </section>
+                </div>
+
+               <div class="column col-3"></div>
+            </div>
+        </div>
+</section>

@@ -11,6 +11,7 @@
 /user/themes/quark/*
 
 # Ignore Grav internal folders that are only changed when Grav is updated.
+/assets/*
 /backup/*
 /bin/*
 /cache/*
@@ -19,4 +20,14 @@
 /system/*
 /tmp/*
 /webserver-configs/*
-/vendor/*   
+/vendor/*
+/.phan/*
+/user/themes/quark/*
+.DS_Store
+.htaccess
+composer.*
+index.php
+.phan/config.php
+.github/FUNDING.yml
+user/languages/themes/quark/*
+user/languages/themes/guldberget_quark/css-compiled/*
